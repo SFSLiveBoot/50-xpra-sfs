@@ -1,0 +1,5 @@
+xpra xpra-x11 xpra-audio xpra-codecs-extras xpra-html5
+gir1.2-ayatanaappindicator3-0.1
+gstreamer1.0-alsa gstreamer1.0-plugins-ugly gstreamer1.0-vaapi
+python3-opengl python3-rencode python3-netifaces
+dbus-x11
