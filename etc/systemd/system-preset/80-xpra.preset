@@ -1,0 +1,2 @@
+disable xpra-server.service
+disable xpra.service
